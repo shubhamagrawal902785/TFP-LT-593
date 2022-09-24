@@ -1,0 +1,2 @@
+echo "all student name"
+

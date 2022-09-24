@@ -1,0 +1,16 @@
+<html>
+<body leftmargin="60" right margin="60" topmargin="40" bgcolor="olive" text="white">
+<h1> <center> Daffodil </h1></center>
+<IMG SRC ="daffodil.jpg">
+<font size="5">
+<p> The Daffodil symolises rebirth and new beginnings. it became associated with new beginnings and the coming of spring because it is one of the first perennials to bloom after the winterfrost. they brighten up the garden with their cheery yellow hues.<p/>
+<ul><li>They symbolises good luck, prosperity and good fortune.
+<li> Daffodil are often given on ten year wedding anniversaries to mean joy, cheerfulness and happiness. They even represent hope for a cure. </ul>
+<hr>
+<br>
+<a href="C:\Users\DELL\Desktop\flowers2.html"> Go to next page </a>
+<br>
+<hr>
+</font>
+</body>
+</html> 

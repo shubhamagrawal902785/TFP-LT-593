@@ -1,0 +1,288 @@
+vhttps://infocenter.nokia.com/public/770562R1A/index.jsp?topic=%2Fcom.sar.basic_system%2Fhtml%2Froot_commands.html
+Reverts@123 
+ 
+http://172.16.96.111:8080/apex/f?p=102:LOGIN_DESKTOP:16211295436818:::::%20%5b%E2%80%8E7/%E2%80%8E8/%E2%80%8E2019%204:54%20PM%5d%20KAVYA%20JOSHI%20%3ccontractor%3e:%20cftreverts
+cftreverts--user name
+Reverts@123 --password
+http://netscope/intranetV1/IPServicceNetworkInfo.cnms?serviceName=403180455(pos file)
+http://121.244.254.231:10080/ISCWebServiceUI/JSP/types/ISCType.faces?serviceId=403180455(cmos)
+091NADI623031771962
+121.244.180.47(ping NMS)
+http://lg.as6453.net/bin/lg.cgi(looking)
+
+CPE command
+
+ ping 10.70.0.202 source lo0 repeat 5
+
+show ip int brief
+show int description 
+ping to nms with source lo0/source wan ip
+ping to pe with source lo0/source wan ip
+show license
+show version --register must be 0x2102
+show ip arp [10:25 AM] SUPRIYA BAGAL <contractor>
+INFOSYS_BPO_HANGZHOU_PRI#sh ip ospf neighbor 
+INFOSYS_BPO_HANGZHOU_PRI#sh ip route ospf 
+INFOSYS_BPO_HANGZHOU_PRI#sh ip ospf database 
+INFOSYS_BPO_HANGZHOU_PRI#sh track 
+ sh ip mroute 
+sh ip multicast
+show ip bgp neighbors 10.75.212.57  advertised-routes    
+sh inv
+http://121.244.254.178:3001/M6WebApp/search.jsp
+Apr@2021
+
+6034472
+show ip bgp summ
+show interfaces---chk for crc errors/speed/duplex 
+show ntp status--should be synchronous
+show run 
+ping vrf TCS_MGMT  10.70.0.201 source lo0
+show ip vrf 
+show run interface Gi0/0/0.101
+show run vrf TCS_MGMT   
+e#mi$Wp@U8%fe#mi$Wp@U8%f
+
+juniper coomand:
+
+show ethernet-switching table vlan 4006
+show ethernet-switching interfaces ge-0/0/7
+show configuration interfaces ge-0/0/7
+
+
+
+
+pjamadha(user name CE)
+jan@2021(password CE)
+telnet router 510693 10.126.7.246
+)username: emergency
+   password:  
+e#mi$Wp@U8%f
+
+
+deepakas 
+L$ne2293
+
+raghavv
+Tcom#456&
+
+AgrawalS
+
+
+https://ipnocplus.vsnl.co.in/cgi-bin/inv/index.cgi
+user name:-ipnoc
+
+
+Password:-mYt(-^M&I
+
+cisco switch command:
+[1[11:57 AM] KUNAL GOSAVI
+    show vlan
+​[11:57 AM] KUNAL GOSAVI
+    show mac-add 
+​[11:57 AM] KUNAL GOSAVI
+    sh int trunk
+
+https://customer.tatacommunications.com/optimus-o2c/tasks/dashboard(optimus)
+
+ACL Remove:
+
+
+A:bg-me01-hpe05>config>service>vprn# interface "Lag 2:1609.0"
+A:bg-me01-hpe05>config>service>vprn>if# sap lag-2:1609.0 
+A:bg-me01-hpe05>config>service>vprn>if>sap# ingress 
+A:bg-me01-hpe05>config>service>vprn>if>sap>ingress# no filter ip 1 
+*A:bg-me01-hpe05>config>service>vprn>if>sap>ingress# back  
+*A:bg-me01-hpe05>config>service>vprn>if>sap# egress 
+*A:bg-me01-hpe05>config>service>vprn>if>sap>egress# no filter ip 1 
+*A:bg-me01-hpe05>config>service>vprn>if>sap>egress# back 
+*A:bg-me01-hpe05>config>service>vprn>if>sap# back 
+*A:bg-me01-hpe05>config>service>vprn>if# info 
+----------------------------------------------
+
+ACL apply:
+
+A:bg-me01-hpe05>config>service>vprn# interface "Lag 2:1609.0"
+A:bg-me01-hpe05>config>service>vprn>if# sap lag-2:1609.0 
+A:bg-me01-hpe05>config>service>vprn>if>sap# ingress 
+A:bg-me01-hpe05>config>service>vprn>if>sap>ingress# fiter ip "block-services"
+*A:bg-me01-hpe05>config>service>vprn>if>sap>egress# back arrvind shiva.neeraj thakre
+*A:bg-me01-hpe05>config>service>vprn>if>sap# egress 
+*A:bg-me01-hpe05>config>service>vprn>if>sap>egress# filter ip"block-services" 
+*A:bg-me01-hpe05>config>service>vprn>if>sap>egress# back 
+*A:bg-me01-hpe05>config>service>vprn>if>sap# back 
+*A:bg-me01-hpe05>config>service>vprn>if# info 
+
+link is showing down get SETACL task ready to apply the ACL
+
+
+secure crt:
+
+
+
+$ bash
+bash-3.2$ telnet 10.75.76.46
+Trying 10.75.76.46...
+telnet: Unable to connect to remote host: Connection refused
+bash-3.2$ ssh AgrawalS@10.75.76.46
+CCCCCC
+1. This computer system  and each  component thereof  is the sole and exclusive property of Tata Consultancy Services
+Limited (TCSL) and  is intended solely for the usage of  its employees and authorized clients. Unauthorized access
+or use will attract appropriate legal action.
+
+2. By using or accessing this System, you expressly consent to:
+(a)  be bound by all policies and regulations of TCSL.
+(b)  be monitored by TCSL or its agents or representatives while you are using or accessing this System (including
+any data that is transmitted by you); and
+(c)  be liable for any loss that may be  suffered  by  TCSL  due  to your use and/or access of this System and you
+agree to indemnify TCSL  against all such losses.
+
+3. If you do not agree to any of the terms above, then do not use and/or access this System.
+Password:
+Password:
+Connection closed by 10.75.76.46
+bash-3.2$ 
+bash-3.2$ ssh pjamadha
+ssh: pjamadha: node name or service name not known
+bash-3.2$ ssh pjamadha@10.75.76.46
+CCCCCC
+1. This computer system  and each  component thereof  is the sole and exclusive property of Tata Consultancy Services
+Limited (TCSL) and  is intended solely for the usage of  its employees and authorized clients. Unauthorized access
+or use will attract appropriate legal action.
+
+2. By using or accessing this System, you expressly consent to:
+(a)  be bound by all policies and regulations of TCSL.
+(b)  be monitored by TCSL or its agents or representatives while you are using or accessing this System (including
+any data that is transmitted by you); and
+(c)  be liable for any loss that may be  suffered  by  TCSL  due  to your use and/or access of this System and you
+agree to indemnify TCSL  against all such losses.
+
+3. If you do not agree to any of the terms above, then do not use and/or access this System.
+Password:
+CCCCC
+1. This computer system  and each  component thereof  is the sole and exclusive property of Tata Consultancy Services
+Limited (TCSL) and  is intended solely for the usage of  its employees and authorized clients. Unauthorized access
+or use will attract appropriate legal action.
+2. By using or accessing this System, you expressly consent to:
+(a)  be bound by all policies and regulations of TCSL.
+(b)  be monitored by TCSL or its agents or representatives while you are using or accessing this System (including
+any data that is transmitted by you); and
+(c)  be liable for any loss that may be  suffered  by  TCSL  due  to your use and/or access of this System and you
+agree to indemnify TCSL  against all such losses.
+
+3. If you do not agree to any of the terms above, then do not use and/or access this System
+CCCCCC
+1. This computer system  and each  component thereof  is the sole and exclusive property of Tata Consultancy Services
+Limited (TCSL) and  is intended solely for the usage of  its employees and authorized clients. Unauthorized ac
+
+============================
+
+
+JUNIPER ACL APPLY
+
+  connections          Show circuit cross-connect connections
+{master}
+AgrawalS@pu-me01-icr01> show configuration |display set |match "ae11 unit 6""
+set interfaces ae11 unit 6 description "NP:23945956(CUST/091PUNE030035661047/Thermax Ltd/AS64877/STDILL-M/Fixed-200M/)"
+set interfaces ae11 unit 6 vlan-tags outer 6
+set interfaces ae11 unit 6 family inet filter input infra-acl
+set interfaces ae11 unit 6 family inet policer input INTERNET_200MB_In
+set interfaces ae11 unit 6 family inet policer output INTERNET_200MB_Out
+set interfaces ae11 unit 6 family inet sampling input
+set interfaces ae11 unit 6 family inet address 14.140.130.101/30
+^C[abort]
+
+{master}
+AgrawalS@pu-me01-icr01> edit private 
+warning: uncommitted changes will be discarded on exit
+Entering configuration mode
+
+{master}[edit]
+AgrawalS@pu-me01-icr01# set interfaces ae11 unit 6 family inet filter input BLOCK-SERVICES    
+
+{master}[edit]
+AgrawalS@pu-me01-icr01# set interfaces ae11 unit 6 family inet filter output BLOCK-SERVICES   
+
+{master}[edit]
+AgrawalS@pu-me01-icr01# show | compare 
+[edit interfaces ae11 unit 6 family inet filter]
+-        input infra-acl;
++        input BLOCK-SERVICES;
++        output BLOCK-SERVICES;
+
+{master}[edit]
+AgrawalS@pu-me01-icr01# commit sycr
+                               ^
+syntax error, expecting <command>.
+AgrawalS@pu-me01-icr01# commit synchronize and-quit 
+re0: 
+configuration check succeeds
+re1: 
+commit complete
+re0: 
+commit complete
+Exiting configuration mode
+
+{master}
+AgrawalS@pu-me01-icr01> show configuration |display set |match "ae11 unit 6""   
+                                                                              ^
+missing argument.
+
+{master}
+AgrawalS@pu-me01-icr01> show configuration |display set |match "ae11 unit 6"     
+set interfaces ae11 unit 6 description "NP:23945956(CUST/091PUNE030035661047/Thermax Ltd/AS64877/STDILL-M/Fixed-200M/)"
+set interfaces ae11 unit 6 vlan-tags outer 6
+set interfaces ae11 unit 6 family inet filter input BLOCK-SERVICES
+set interfaces ae11 unit 6 family inet filter output BLOCK-SERVICES
+set interfaces ae11 unit 6 family inet policer input INTERNET_200MB_In
+set interfaces ae11 unit 6 family inet policer output INTERNET_200MB_Out
+set interfaces ae11 unit 6 family inet sampling input
+set interfaces ae11 unit 6 family inet address 14.140.130.101/30
+
+{master}
+AgrawalS@pu-me01-icr01> 
+
+
+Acl reject:
+
+BILLCLo1-------6th no
+
+
+
+Commerzone_Pri#show run bisect
+Commerzone_Pri#show run bisection 
+Commerzone_Pri#show run | sec     
+Commerzone_Pri#show run | s bty   
+Commerzone_Pri#show run | s vty
+line vty 0 4
+ logging synchronous
+ transport input ssh
+ transport output ssh
+line vty 5 15
+ transport input ssh
+ transport output ssh
+Commerzone_Pri#
+Commerzone_Pri#
+Commerzone_Pri#
+Commerzone_Pri#
+Commerzone_Pri#
+Commerzone_Pri#
+Commerzone_Pri#show run interface 
+Commerzone_Pri#
+Commerzone_Pri#show run interface GigabitEthernet0/0.182
+Building configuration...
+
+Current configuration : 328 bytes
+
+show service id 8294 base (vpls)
+
+
+perl -pi -e 's/\Q$_// if ($. == 244);' ~/.ssh/known_hosts( p router error)
+
+
+show service id <****> base(epipe command)
+
+As per PM, customer accepted link by testing on LAPTOP and he is going to use link for VC through LAPTOP. SAT-SOC approval attached.
+
+
+akshata khade(system desk e

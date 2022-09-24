@@ -1,0 +1,15 @@
+Shubham@1as--git hub password
+
+https://github.com/shubhamagrawal902785
+
+>git init
+>git remote add origin "link"
+>git checkout -b "BranchName"
+>Create .sh file and write your code and excute
+>git add . / specific file name
+>git commit -m "[Apara]-Program....."
+>git push origin "BranchName"
+>git status
+
+git config user.email
+git config user.name
